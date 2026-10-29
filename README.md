@@ -8,7 +8,7 @@
 
 **Data, analytics and small tools, set in a starfield you can fly through.**
 
-[**View the live site →**](https://connerzhao.github.io/personal-portfolio/)
+[**View the live site →**](https://connerzhao.dev/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connerzhao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connerzhao/)
 [![Email](https://img.shields.io/badge/Email-ConnerZhao11%40gmail.com-b9a3f5?style=flat-square&logo=gmail&logoColor=white)](mailto:ConnerZhao11@gmail.com)
